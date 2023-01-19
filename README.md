@@ -1,8 +1,8 @@
 # test-reactjs-math
 
-##Implement an online calculator in reactjs.
+Implement an online calculator in reactjs.
 
-#Requirements:
+Requirements:
 
 - Documentation of the code (having respective comments for each process is enough).
 
